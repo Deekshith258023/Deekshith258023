@@ -1,12 +1,5 @@
-- 👋 Hi, I’m @Deekshith258023
-- 👀 I’m interested in Hacking 
-- 🌱 I’m currently learning How to Hack smartphone 
-- 💞️ I’m looking to collaborate on Github, Instagram 
-- 📫 How to reach me deekshith_reddy_26 this is my Instagram id
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🛡️ Penetration Testing Journey
 
-<!---
-Deekshith258023/Deekshith258023 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm currently learning penetration testing and cybersecurity from scratch!  
+I'm excited to explore tools like Kali Linux, Nmap, Burp Suite, and more.  
+Follow my journey and check out my notes, write-ups, and project updates in my (https://github.com/Deekshith258023/Penetration-Testing-Journey) repository.
